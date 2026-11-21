@@ -1,0 +1,14 @@
+{
+  "blender": {
+    "exe": "C:\\Program Files\\Blender Foundation\\Blender 5.2\\blender.exe",
+    "version_esperada": "5.2",
+    "mcp_paquete": "mcp-for-blender",
+    "mcp_version": "2.3.1",
+    "mcp_puerto": 9876
+  },
+  "video": {
+    "ancho": 1080,
+    "alto": 1920,
+    "fps": 30
+  }
+}

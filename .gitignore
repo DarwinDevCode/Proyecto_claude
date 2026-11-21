@@ -1,0 +1,27 @@
+# Dependencias y salidas
+node_modules/
+out/
+dist/
+proyectos/*/06_render/
+
+# Material de terceros o pesado: no se sube
+referencias/
+biblioteca/musica/
+biblioteca/sfx/
+biblioteca/modelos3d/
+
+# Junctions creadas por "npx remotion skills add" (la fuente versionada es .agents/skills + skills-lock.json)
+.claude/skills/remotion-*/
+
+# Copia local del addon de Blender (código de terceros; se regenera con uvx mcp-for-blender install-addon)
+scripts/blender_mcp_addon.py
+
+# Python
+__pycache__/
+
+# Secretos
+.env
+
+# Sistema
+.DS_Store
+Thumbs.db
