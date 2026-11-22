@@ -3,6 +3,9 @@ node_modules/
 out/
 dist/
 proyectos/*/06_render/
+proyectos/*/04_blender/frames/
+proyectos/*/04_blender/render_log.txt
+proyectos/*/05_audio/*.mp3
 
 # Material de terceros o pesado: no se sube
 referencias/

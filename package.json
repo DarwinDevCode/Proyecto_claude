@@ -28,7 +28,9 @@
     "upgrade": "remotion upgrade",
     "lint": "eslint src && tsc",
     "doctor": "node scripts/doctor.mjs",
-    "render_prueba": "remotion render Prueba out/prueba.mp4"
+    "render_prueba": "remotion render Prueba out/prueba.mp4",
+    "render_prueba3d": "remotion render Prueba3D out/prueba_3d.mp4 --public-dir \"proyectos/2026-11-21_prueba-3d\"",
+    "studio_prueba3d": "remotion studio --public-dir \"proyectos/2026-11-21_prueba-3d\""
   },
   "allowScripts": {
     "esbuild": false
