@@ -1,0 +1,551 @@
+{
+  "voz": "es-MX-JorgeNeural",
+  "texto": null,
+  "palabras": [
+    {
+      "texto": "Por",
+      "inicio_ms": 100,
+      "fin_ms": 262
+    },
+    {
+      "texto": "aquí",
+      "inicio_ms": 275,
+      "fin_ms": 512
+    },
+    {
+      "texto": "cruza",
+      "inicio_ms": 525,
+      "fin_ms": 812
+    },
+    {
+      "texto": "internet",
+      "inicio_ms": 825,
+      "fin_ms": 1288
+    },
+    {
+      "texto": "de",
+      "inicio_ms": 1300,
+      "fin_ms": 1400
+    },
+    {
+      "texto": "un",
+      "inicio_ms": 1412,
+      "fin_ms": 1550
+    },
+    {
+      "texto": "continente",
+      "inicio_ms": 1562,
+      "fin_ms": 2188
+    },
+    {
+      "texto": "a",
+      "inicio_ms": 2200,
+      "fin_ms": 2288
+    },
+    {
+      "texto": "otro",
+      "inicio_ms": 2300,
+      "fin_ms": 2688
+    },
+    {
+      "texto": "Sí",
+      "inicio_ms": 3550,
+      "fin_ms": 3950
+    },
+    {
+      "texto": "por",
+      "inicio_ms": 4200,
+      "fin_ms": 4362
+    },
+    {
+      "texto": "esta",
+      "inicio_ms": 4375,
+      "fin_ms": 4600
+    },
+    {
+      "texto": "manguera",
+      "inicio_ms": 4612,
+      "fin_ms": 5125
+    },
+    {
+      "texto": "Más",
+      "inicio_ms": 5988,
+      "fin_ms": 6262
+    },
+    {
+      "texto": "del 99",
+      "inicio_ms": 6275,
+      "fin_ms": 7088
+    },
+    {
+      "texto": "%",
+      "inicio_ms": 7100,
+      "fin_ms": 7625
+    },
+    {
+      "texto": "del",
+      "inicio_ms": 7638,
+      "fin_ms": 7812
+    },
+    {
+      "texto": "tráfico",
+      "inicio_ms": 7825,
+      "fin_ms": 8225
+    },
+    {
+      "texto": "internacional",
+      "inicio_ms": 8238,
+      "fin_ms": 8962
+    },
+    {
+      "texto": "de",
+      "inicio_ms": 8975,
+      "fin_ms": 9050
+    },
+    {
+      "texto": "datos",
+      "inicio_ms": 9062,
+      "fin_ms": 9438
+    },
+    {
+      "texto": "viaja",
+      "inicio_ms": 9450,
+      "fin_ms": 9788
+    },
+    {
+      "texto": "por",
+      "inicio_ms": 9800,
+      "fin_ms": 10012
+    },
+    {
+      "texto": "cables",
+      "inicio_ms": 10025,
+      "fin_ms": 10350
+    },
+    {
+      "texto": "submarinos",
+      "inicio_ms": 10362,
+      "fin_ms": 11125
+    },
+    {
+      "texto": "Hay",
+      "inicio_ms": 11988,
+      "fin_ms": 12188
+    },
+    {
+      "texto": "más",
+      "inicio_ms": 12200,
+      "fin_ms": 12438
+    },
+    {
+      "texto": "de",
+      "inicio_ms": 12450,
+      "fin_ms": 12525
+    },
+    {
+      "texto": "600",
+      "inicio_ms": 12538,
+      "fin_ms": 13212
+    },
+    {
+      "texto": "en",
+      "inicio_ms": 13225,
+      "fin_ms": 13325
+    },
+    {
+      "texto": "servicio",
+      "inicio_ms": 13338,
+      "fin_ms": 13925
+    },
+    {
+      "texto": "En",
+      "inicio_ms": 14790,
+      "fin_ms": 14978
+    },
+    {
+      "texto": "aguas",
+      "inicio_ms": 14990,
+      "fin_ms": 15265
+    },
+    {
+      "texto": "profundas",
+      "inicio_ms": 15278,
+      "fin_ms": 15828
+    },
+    {
+      "texto": "miden",
+      "inicio_ms": 15840,
+      "fin_ms": 16140
+    },
+    {
+      "texto": "unos",
+      "inicio_ms": 16152,
+      "fin_ms": 16465
+    },
+    {
+      "texto": "dos",
+      "inicio_ms": 16478,
+      "fin_ms": 16640
+    },
+    {
+      "texto": "centímetros",
+      "inicio_ms": 16652,
+      "fin_ms": 17502
+    },
+    {
+      "texto": "Dentro",
+      "inicio_ms": 18365,
+      "fin_ms": 18840
+    },
+    {
+      "texto": "fibras",
+      "inicio_ms": 19115,
+      "fin_ms": 19490
+    },
+    {
+      "texto": "de",
+      "inicio_ms": 19502,
+      "fin_ms": 19565
+    },
+    {
+      "texto": "vidrio",
+      "inicio_ms": 19578,
+      "fin_ms": 20015
+    },
+    {
+      "texto": "acero",
+      "inicio_ms": 20278,
+      "fin_ms": 20690
+    },
+    {
+      "texto": "que",
+      "inicio_ms": 20702,
+      "fin_ms": 20815
+    },
+    {
+      "texto": "aguanta",
+      "inicio_ms": 20828,
+      "fin_ms": 21178
+    },
+    {
+      "texto": "la",
+      "inicio_ms": 21190,
+      "fin_ms": 21278
+    },
+    {
+      "texto": "tensión",
+      "inicio_ms": 21290,
+      "fin_ms": 21790
+    },
+    {
+      "texto": "cobre",
+      "inicio_ms": 22052,
+      "fin_ms": 22352
+    },
+    {
+      "texto": "y",
+      "inicio_ms": 22365,
+      "fin_ms": 22428
+    },
+    {
+      "texto": "plástico",
+      "inicio_ms": 22440,
+      "fin_ms": 22990
+    },
+    {
+      "texto": "que",
+      "inicio_ms": 23002,
+      "fin_ms": 23128
+    },
+    {
+      "texto": "lo",
+      "inicio_ms": 23140,
+      "fin_ms": 23240
+    },
+    {
+      "texto": "protegen",
+      "inicio_ms": 23252,
+      "fin_ms": 23865
+    },
+    {
+      "texto": "Cada",
+      "inicio_ms": 24727,
+      "fin_ms": 25053
+    },
+    {
+      "texto": "año",
+      "inicio_ms": 25065,
+      "fin_ms": 25303
+    },
+    {
+      "texto": "se",
+      "inicio_ms": 25315,
+      "fin_ms": 25440
+    },
+    {
+      "texto": "averían",
+      "inicio_ms": 25453,
+      "fin_ms": 25865
+    },
+    {
+      "texto": "entre",
+      "inicio_ms": 25877,
+      "fin_ms": 26140
+    },
+    {
+      "texto": "150",
+      "inicio_ms": 26153,
+      "fin_ms": 26990
+    },
+    {
+      "texto": "y",
+      "inicio_ms": 27003,
+      "fin_ms": 27040
+    },
+    {
+      "texto": "200",
+      "inicio_ms": 27053,
+      "fin_ms": 27803
+    },
+    {
+      "texto": "Tiburones",
+      "inicio_ms": 28665,
+      "fin_ms": 29453
+    },
+    {
+      "texto": "Casi",
+      "inicio_ms": 30315,
+      "fin_ms": 30640
+    },
+    {
+      "texto": "nunca",
+      "inicio_ms": 30653,
+      "fin_ms": 31115
+    },
+    {
+      "texto": "Suelen",
+      "inicio_ms": 31977,
+      "fin_ms": 32415
+    },
+    {
+      "texto": "ser",
+      "inicio_ms": 32427,
+      "fin_ms": 32653
+    },
+    {
+      "texto": "redes",
+      "inicio_ms": 32665,
+      "fin_ms": 32990
+    },
+    {
+      "texto": "de",
+      "inicio_ms": 33003,
+      "fin_ms": 33090
+    },
+    {
+      "texto": "pesca",
+      "inicio_ms": 33103,
+      "fin_ms": 33477
+    },
+    {
+      "texto": "y",
+      "inicio_ms": 33490,
+      "fin_ms": 33603
+    },
+    {
+      "texto": "anclas",
+      "inicio_ms": 33615,
+      "fin_ms": 34165
+    },
+    {
+      "texto": "La",
+      "inicio_ms": 35027,
+      "fin_ms": 35215
+    },
+    {
+      "texto": "ironía",
+      "inicio_ms": 35227,
+      "fin_ms": 35765
+    },
+    {
+      "texto": "se",
+      "inicio_ms": 36065,
+      "fin_ms": 36203
+    },
+    {
+      "texto": "arregla",
+      "inicio_ms": 36215,
+      "fin_ms": 36603
+    },
+    {
+      "texto": "pescando",
+      "inicio_ms": 36615,
+      "fin_ms": 37215
+    },
+    {
+      "texto": "Un",
+      "inicio_ms": 38077,
+      "fin_ms": 38265
+    },
+    {
+      "texto": "barco",
+      "inicio_ms": 38277,
+      "fin_ms": 38603
+    },
+    {
+      "texto": "cablero",
+      "inicio_ms": 38615,
+      "fin_ms": 39015
+    },
+    {
+      "texto": "lo",
+      "inicio_ms": 39027,
+      "fin_ms": 39103
+    },
+    {
+      "texto": "engancha",
+      "inicio_ms": 39115,
+      "fin_ms": 39615
+    },
+    {
+      "texto": "lo",
+      "inicio_ms": 39940,
+      "fin_ms": 40015
+    },
+    {
+      "texto": "sube",
+      "inicio_ms": 40027,
+      "fin_ms": 40403
+    },
+    {
+      "texto": "le",
+      "inicio_ms": 40715,
+      "fin_ms": 40790
+    },
+    {
+      "texto": "empalma",
+      "inicio_ms": 40803,
+      "fin_ms": 41253
+    },
+    {
+      "texto": "un",
+      "inicio_ms": 41265,
+      "fin_ms": 41403
+    },
+    {
+      "texto": "tramo",
+      "inicio_ms": 41415,
+      "fin_ms": 41727
+    },
+    {
+      "texto": "nuevo",
+      "inicio_ms": 41740,
+      "fin_ms": 42190
+    },
+    {
+      "texto": "y",
+      "inicio_ms": 42203,
+      "fin_ms": 42277
+    },
+    {
+      "texto": "lo",
+      "inicio_ms": 42290,
+      "fin_ms": 42403
+    },
+    {
+      "texto": "devuelve",
+      "inicio_ms": 42415,
+      "fin_ms": 42815
+    },
+    {
+      "texto": "al",
+      "inicio_ms": 42827,
+      "fin_ms": 42915
+    },
+    {
+      "texto": "fondo",
+      "inicio_ms": 42927,
+      "fin_ms": 43365
+    },
+    {
+      "texto": "Así",
+      "inicio_ms": 44227,
+      "fin_ms": 44527
+    },
+    {
+      "texto": "que",
+      "inicio_ms": 44540,
+      "fin_ms": 44665
+    },
+    {
+      "texto": "la",
+      "inicio_ms": 44677,
+      "fin_ms": 44777
+    },
+    {
+      "texto": "próxima",
+      "inicio_ms": 44790,
+      "fin_ms": 45203
+    },
+    {
+      "texto": "vez",
+      "inicio_ms": 45215,
+      "fin_ms": 45427
+    },
+    {
+      "texto": "que",
+      "inicio_ms": 45440,
+      "fin_ms": 45565
+    },
+    {
+      "texto": "tu",
+      "inicio_ms": 45577,
+      "fin_ms": 45665
+    },
+    {
+      "texto": "mensaje",
+      "inicio_ms": 45677,
+      "fin_ms": 46165
+    },
+    {
+      "texto": "cruce",
+      "inicio_ms": 46177,
+      "fin_ms": 46515
+    },
+    {
+      "texto": "el",
+      "inicio_ms": 46527,
+      "fin_ms": 46615
+    },
+    {
+      "texto": "océano",
+      "inicio_ms": 46627,
+      "fin_ms": 47103
+    },
+    {
+      "texto": "piensa",
+      "inicio_ms": 47415,
+      "fin_ms": 47777
+    },
+    {
+      "texto": "en",
+      "inicio_ms": 47790,
+      "fin_ms": 47890
+    },
+    {
+      "texto": "esta",
+      "inicio_ms": 47903,
+      "fin_ms": 48165
+    },
+    {
+      "texto": "manguera",
+      "inicio_ms": 48177,
+      "fin_ms": 48703
+    }
+  ],
+  "empalme": {
+    "escena_ini_ms": 14790,
+    "escena_fin_ms": 24800,
+    "desfase_posterior_ms": -935
+  }
+}

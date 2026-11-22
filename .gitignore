@@ -4,6 +4,7 @@ out/
 dist/
 proyectos/*/06_render/
 proyectos/*/04_blender/frames*/
+proyectos/*/03_storyboard/capas/
 proyectos/*/04_blender/render_log*.txt
 proyectos/*/05_audio/*.mp3
 

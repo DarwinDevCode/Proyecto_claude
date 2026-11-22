@@ -1,0 +1,15 @@
+{
+  "nota": "Fotogramas clave del storyboard. 'desde' = palabra de la voz (05_audio/voz_borrador.palabras.json) donde empieza el plano; n = aparición n-ésima.",
+  "planos": [
+    { "id": "P1a", "escena": "E1", "desde": "Por", "n": 1, "narracion": "Por aquí cruza internet de un continente a otro.", "etiqueta": "", "nota": "Macro del corte (≥50 % del ancho); capas visibles desde f0." },
+    { "id": "P1b", "escena": "E1", "desde": "Sí", "n": 1, "narracion": "Sí, por esta manguera.", "etiqueta": "", "nota": "Entra la mano desde el borde izquierdo; el dedo junto al cable." },
+    { "id": "P2", "escena": "E2", "desde": "Más", "n": 1, "narracion": "Más del 99 % del tráfico internacional de datos viaja por cables submarinos. Hay más de 600 en servicio.", "etiqueta": "+99 % tráfico internacional · 607 cables", "nota": "Movimiento rápido atrás hasta la maqueta; agua solo aquí y en E4-E5." },
+    { "id": "P3a", "escena": "E3", "desde": "En", "n": 1, "narracion": "En aguas profundas miden unos dos centímetros. Dentro:", "etiqueta": "17–21 mm", "nota": "Vuelta al macro; empieza el despliegue." },
+    { "id": "P3b", "escena": "E3", "desde": "fibras", "n": 1, "narracion": "fibras de vidrio, acero que aguanta la tensión, cobre y plástico que lo protegen.", "etiqueta": "FIBRA · ACERO · COBRE · POLIETILENO", "nota": "Una capa por palabra; orden real de dentro hacia fuera." },
+    { "id": "P4a", "escena": "E4", "desde": "Cada", "n": 1, "narracion": "Cada año se averían entre 150 y 200. ¿Tiburones? Casi nunca.", "etiqueta": "150–200 averías/año", "nota": "Gag: el tiburón pasa de largo." },
+    { "id": "P4b", "escena": "E4", "desde": "Suelen", "n": 1, "narracion": "Suelen ser redes de pesca y anclas.", "etiqueta": "70–80 %: pesca y anclas", "nota": "Ancla y red de arrastre; el cable roto." },
+    { "id": "P5a", "escena": "E5", "desde": "La", "n": 1, "narracion": "La ironía: se arregla pescando. Un barco cablero lo engancha,", "etiqueta": "", "nota": "Cablero de costado; el gancho baja desde la roldana de proa." },
+    { "id": "P5b", "escena": "E5", "desde": "lo", "n": 3, "narracion": "lo sube, le empalma un tramo nuevo y lo devuelve al fondo.", "etiqueta": "Cerca de la costa: 5–9 días de trabajo", "nota": "Los extremos suben en V hasta la proa." },
+    { "id": "P6", "escena": "E6", "desde": "Así", "n": 1, "narracion": "Así que la próxima vez que tu mensaje cruce el océano, piensa en esta manguera.", "etiqueta": "", "nota": "Rima con P1b; pulso de luz por las fibras (Remotion)." }
+  ]
+}

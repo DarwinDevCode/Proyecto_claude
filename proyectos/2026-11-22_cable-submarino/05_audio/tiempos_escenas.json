@@ -1,0 +1,66 @@
+{
+  "E1": {
+    "ini_ms": 100,
+    "fin_ms": 5125,
+    "f_ini": 3,
+    "f_fin": 154,
+    "primera": "Por",
+    "ultima": "manguera"
+  },
+  "E2": {
+    "ini_ms": 5988,
+    "fin_ms": 13925,
+    "f_ini": 180,
+    "f_fin": 418,
+    "primera": "Más",
+    "ultima": "servicio"
+  },
+  "E3": {
+    "ini_ms": 14790,
+    "fin_ms": 23865,
+    "f_ini": 444,
+    "f_fin": 716,
+    "primera": "En",
+    "ultima": "protegen"
+  },
+  "E4": {
+    "ini_ms": 24727,
+    "fin_ms": 34165,
+    "f_ini": 742,
+    "f_fin": 1025,
+    "primera": "Cada",
+    "ultima": "anclas"
+  },
+  "E5": {
+    "ini_ms": 35027,
+    "fin_ms": 43365,
+    "f_ini": 1051,
+    "f_fin": 1301,
+    "primera": "La",
+    "ultima": "fondo"
+  },
+  "E6": {
+    "ini_ms": 44227,
+    "fin_ms": 48703,
+    "f_ini": 1327,
+    "f_fin": 1461,
+    "primera": "Así",
+    "ultima": "manguera"
+  },
+  "total_frames": 1492,
+  "palabras_clave_f": {
+    "Dentro": 551,
+    "fibras": 573,
+    "acero": 608,
+    "cobre": 662,
+    "plástico": 673,
+    "Tiburones": 860,
+    "Suelen": 959,
+    "ironía": 1057,
+    "engancha": 1173,
+    "sube": 1201,
+    "empalma": 1224,
+    "devuelve": 1272,
+    "Así": 1327
+  }
+}

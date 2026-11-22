@@ -7,8 +7,16 @@
   - Video final: pendiente.
 - **Hecho:** `00_concepto.md`, `01_investigacion.md`, `02_guion.json`, `02_guion.md`, `03_storyboard/plan.md`.
 - **Medición de duración:** voz de borrador generada solo en el scratchpad (fuera del proyecto). 111 palabras; la última termina a 49,6 s.
-- **Decisiones abiertas:**
-  - Barco cablero: adaptar un modelo CC0 o modelarlo.
-  - Gancho: modelado simple.
-  - Duración: ~50,6 s con el cierre, o recortar.
+- **Decisiones tomadas (D-006, delegadas por el usuario):** barco cablero = "TugBoat" (CC BY 3.0) adaptado con roldana y tambor; gancho modelado con formas simples.
+- **Decisión abierta:** duración (~50,6 s con el cierre, o recortar "Así que").
+- **Etapa 2 (storyboard): lista para la puerta 2 (pendiente de aprobación).**
+  - `03_storyboard/storyboard.png` (10 fotogramas clave con tiempo, narración, etiqueta y nota) y `storyboard.md`; definición en `planos.json`; hoja con `scripts/storyboard_hoja.mjs`.
+  - Stills a resolución completa: `scripts/escena_cable_v3.py -- --storyboard` (30,4 s, 15 PNG en `03_storyboard/capas/`, fuera de git).
+  - E3 cambiada a "cobre y plástico que lo protegen" (sin fuente legible sobre el cobre y los repetidores); su voz se regeneró y empalmó con `scripts/empalmar_voz.mjs`. Video: 49,7 s (1492 fotogramas).
+  - Corregido: colores del pesquero (textura), esqueleto del tiburón (sin la "Icosphere" de huesos), ruido de Freestyle en rocas (Decimate + pliegue a 100°), mano desde el borde, corte ≥ 50 % del ancho, cablero de costado con roldana en la proa.
+  - Para la animación: un trazo suelto pequeño arriba en P4a; el cablero queda pequeño en P5 (acercar cámara al animar).
+- **Histórico de la etapa 2 (punto de reanudación anterior):**
+  - Hecho: voz de borrador `05_audio/voz_borrador.*` y `05_audio/tiempos_escenas.json` (1520 fotogramas); modelos exportados a `biblioteca/modelos3d/polypizza/` (ancla Nikdane12 CC0, tiburón Quaternius CC0, pesquero Poly by Google CC BY, cablero TugBoat CC BY); `scripts/escena_cable_v3.py` construye la escena (37 objetos) sin errores.
+  - Falta: registrar ancla, tiburón y pesquero en LICENCIAS.csv; revisar el pesquero (perdió sus colores: material único gris) y el tiburón (dimensiones raras al unir el esqueleto); ajustar planos con `aplicar_plano()` y `look`; render de stills con `--storyboard`; hoja de storyboard y `storyboard.md`.
+  - Descartados: ancla plana de Quaternius, bote de remos, red de mano (J-Toastie); la red de arrastre se hace con formas simples (D-006).
 - **Bloqueos para publicar:** voz de borrador (D-005); citas de las fuentes por verificar a mano (lectura automática); créditos CC BY.

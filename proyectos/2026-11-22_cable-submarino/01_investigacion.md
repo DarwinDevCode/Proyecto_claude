@@ -55,6 +55,10 @@
 
 **Corrección para la 3D:** en la v2 el acero estaba *fuera* del cobre y había una capa de "gel". Según la fuente, el acero va dentro del cobre, y el gel no aparece en ninguna fuente.
 **No encontrado con fuente (no usar):** vaselina o barrera de agua como capa con nombre, y para qué sirve exactamente la electricidad del cobre (repetidores).
+**Búsqueda del 2026-11-21 (segunda ronda) sobre "el cobre alimenta los repetidores":**
+- Los resultados de búsqueda apuntan a ICPC (`iscpc.org/documents/?id=142` y `?id=132`) y a NEC (`techrep/journal/g10/n01/pdf/100107.pdf`).
+- Los PDF de ICPC no tienen texto extraíble y el de NEC devolvió HTTP 403, así que no hay cita literal verificada.
+- **Consecuencia:** en E3, "cobre que lleva electricidad y plástico que lo aísla" pasa a **"cobre y plástico que lo protegen"**.
 
 ## 5. Averías al año y causas
 

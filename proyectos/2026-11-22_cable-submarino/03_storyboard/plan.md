@@ -40,8 +40,8 @@
 | Tiburón (E4, gag) | "Shark", Quaternius (`AyHTK3zUSG`, animado) | CC0 1.0 | Ya trae animación de nado. |
 | Barco de pesca (E4) | "Boat", Quaternius (`5UEl54KsuC`, 224 tris) | CC0 1.0 | Alternativa: "Boat", Poly by Google (`84-DYhLzxNq`, CC BY 3.0). |
 | Red de pesca (E4) | "Fishing Net", J-Toastie (`Z11I3AUBO9`) | CC BY 3.0 | Ver si sirve como red de arrastre; si no, malla procedural. |
-| **Barco cablero (E5)** | **No hay** en Poly Pizza (búsquedas: ship, boat, research vessel, trawler). Lo más cercano: "Small Ship", Quaternius (`W2vMzztgIi`, CC0) o "TugBoat" (`0C28iix4FPm`, CC BY 3.0) | — | **Decisión del usuario:** (a) adaptar un barco CC0 añadiéndole roldana de proa y tambor de cable, o (b) modelarlo con formas simples (excepción a D-002). |
-| **Gancho (grapnel) (E5)** | **No hay**; solo "Fish hook" (Poly by Google, CC BY 3.0) y señuelos | — | Pieza simple (eje + 4-5 uñas) modelada con formas simples; requiere tu visto bueno (D-002). |
+| **Barco cablero (E5)** | **DECIDIDO (D-006):** "TugBoat", Some "Random" Person (`0C28iix4FPm`), inspeccionado y exportado a `biblioteca/modelos3d/polypizza/barco_cablero_base/tugboat.glb` | CC BY 3.0 | Se adapta: roldana de proa, tambor de cable en la cubierta de popa y casco recoloreado con la paleta. Descartado "Small Ship" (Quaternius, CC0) por ser una barca de madera de estilo pirata. |
+| **Gancho (grapnel) (E5)** | **DECIDIDO (D-006):** modelado con formas simples (eje, anilla y 4 uñas curvas) | propio | No hay alternativa con licencia (solo "Fish hook" y señuelos). |
 | Cubierta / empalme (E5) | No buscado todavía | — | Opción: resolverlo en Remotion con una ilustración 2D en vez de un plano 3D. |
 
 ## Etiquetas en pantalla (Remotion)
