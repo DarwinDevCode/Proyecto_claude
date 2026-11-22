@@ -1,0 +1,74 @@
+{
+  "proyecto": "2026-11-22_cable-submarino",
+  "titulo_trabajo": "Internet pasa por una manguera",
+  "formato": { "ancho": 1080, "alto": 1920, "fps": 30, "duracion_objetivo_s": [40, 50], "palabras_objetivo": [110, 130] },
+  "estado": "aprobado (puerta humana 1, D-004) el 2026-11-21",
+  "voz": { "borrador": "edge-tts es-MX-JorgeNeural, velocidad normal (D-005: solo borrador)" },
+  "escenas": [
+    {
+      "id": "E1",
+      "funcion": "gancho visual (primer segundo)",
+      "narracion": "Por aquí cruza internet de un continente a otro. Sí, por esta manguera.",
+      "plano": "Macro del extremo cortado del cable ocupando más de la mitad del encuadre; la mano entra desde el borde inferior y apoya el pulgar junto al cable.",
+      "se_ve": "Capas del cable visibles desde el fotograma 0; pulgar más grueso que el cable.",
+      "etiqueta": null,
+      "fuentes": ["F3-TG-FAQ"]
+    },
+    {
+      "id": "E2",
+      "funcion": "por qué importa",
+      "narracion": "Más del 99 % del tráfico internacional de datos viaja por cables submarinos. Hay más de 600 en servicio.",
+      "plano": "Movimiento rápido hacia atrás y arriba hasta el plano general de la maqueta del océano (agua solo en este plano).",
+      "se_ve": "Corte del océano: barco en la superficie, cable en el lecho que continúa fuera del bloque.",
+      "etiqueta": "+99 % del tráfico internacional · 607 cables en servicio",
+      "fuentes": ["F1-ITU-HUB", "F2-TG-COUNT"]
+    },
+    {
+      "id": "E3",
+      "funcion": "lo delgado que es (mano y capas)",
+      "narracion": "En aguas profundas miden unos dos centímetros. Dentro: fibras de vidrio, acero que aguanta la tensión, cobre que lleva electricidad y plástico que lo aísla.",
+      "plano": "Vuelta al corte en macro; las capas se despliegan en escalera una por una, sincronizadas con cada palabra.",
+      "se_ve": "Fibras → acero → cobre → polietileno (orden real, de dentro hacia fuera).",
+      "etiqueta": "17–21 mm · FIBRA ÓPTICA / ACERO / COBRE / POLIETILENO",
+      "fuentes": ["F3-KIS-DESIGN", "F4-KIS-DESIGN"]
+    },
+    {
+      "id": "E4",
+      "funcion": "qué lo rompe",
+      "narracion": "Cada año se averían entre 150 y 200. ¿Tiburones? Casi nunca. Suelen ser redes de pesca y anclas.",
+      "plano": "Plano medio del lecho: pasa un tiburón que ignora el cable; después un ancla arrastrada y una red de arrastre que lo enganchan.",
+      "se_ve": "Tiburón (gag), ancla arrastrándose, red; el cable se tensa y se parte con un destello.",
+      "etiqueta": "150–200 averías/año · 70–80 %: pesca y anclas",
+      "fuentes": ["F5-ICPC-FAQ", "F5-TG-FAQ"]
+    },
+    {
+      "id": "E5",
+      "funcion": "cómo se repara",
+      "narracion": "La ironía: se arregla pescando. Un barco cablero lo engancha, lo sube, le empalma un tramo nuevo y lo devuelve al fondo.",
+      "plano": "Plano general vertical: barco cablero en superficie, gancho que baja, sube el cable; corte a cubierta con el empalme; el cable baja de nuevo.",
+      "se_ve": "Barco cablero con roldana de proa, gancho (grapnel), dos extremos del cable, tramo nuevo empalmado.",
+      "etiqueta": "Cerca de la costa: 5–9 días de trabajo",
+      "fuentes": ["F6-KIS-REPAIR", "F6-TG-FAULT"]
+    },
+    {
+      "id": "E6",
+      "funcion": "cierre que vuelve al inicio",
+      "narracion": "Así que la próxima vez que tu mensaje cruce el océano, piensa en esta manguera.",
+      "plano": "Vuelta al mismo encuadre de E1 (macro del corte con la mano); el pulgar da un toque al cable.",
+      "se_ve": "Rima visual con el gancho inicial; un pulso de luz recorre las fibras.",
+      "etiqueta": null,
+      "fuentes": ["F3-TG-FAQ"]
+    }
+  ],
+  "fuentes": {
+    "F1-ITU-HUB": { "url": "https://www.itu.int/hub/2026/02/the-world-is-coming-together-to-strengthen-submarine-cable-resilience/", "fecha_fuente": "2026-02-02", "consulta": "2026-11-21", "cita": "carries over 99 per cent of international data traffic." },
+    "F2-TG-COUNT": { "url": "https://resources.telegeography.com/how-many-submarine-cables-are-there-anyway", "fecha_fuente": "2026-09-23", "consulta": "2026-11-21", "cita": "that's a whopping 607 in-service systems, with another 102 planned." },
+    "F3-KIS-DESIGN": { "url": "https://kis-orca.org/subsea-cables/design/", "fecha_fuente": "sin fecha (© Seafish 2019)", "consulta": "2026-11-21", "cita": "is usually 17 – 21mm diameter." },
+    "F3-TG-FAQ": { "url": "https://www2.telegeography.com/submarine-cable-faqs-frequently-asked-questions", "fecha_fuente": "sin fecha (texto 'as of early 2026')", "consulta": "2026-11-21", "cita": "a cable is typically as wide as a garden hose." },
+    "F4-KIS-DESIGN": { "url": "https://kis-orca.org/subsea-cables/design/", "fecha_fuente": "sin fecha (© Seafish 2019)", "consulta": "2026-11-21", "cita": "optical core encased within a high tensile steel strength member" },
+    "F5-ICPC-FAQ": { "url": "https://www.iscpc.org/news/media-enquiries/", "fecha_fuente": "2026-05-20", "consulta": "2026-11-21", "cita": "approximately 150–200 submarine telecommunications cable faults occur globally each year." },
+    "F5-TG-FAQ": { "url": "https://www2.telegeography.com/submarine-cable-faqs-frequently-asked-questions", "fecha_fuente": "sin fecha", "consulta": "2026-11-21", "cita": "Deliberate sabotage and shark bites are exceedingly rare." },
+    "F6-KIS-REPAIR": { "url": "https://kis-orca.org/subsea-cables/maintenance-repair-operations/", "fecha_fuente": "sin fecha", "consulta": "2026-11-21", "cita": "The ship grapples for the cable using a large cutting grapnel (a hook)" },
+    "F6-TG-FAULT": { "url": "https://resources.telegeography.com/fault-finding-understanding-cable-fault-mitigation-and-repair", "fecha_fuente": "2026-11-19", "consulta": "2026-11-21", "cita": "The whole job takes roughly 5 to 9 days." }
+  }
+}
