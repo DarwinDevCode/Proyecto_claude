@@ -23,6 +23,28 @@
 - Formas simples propias: barco, cable por capas, lecho, agua (excepción a D-002 autorizada para esta prueba).
 - Voz: edge-tts `es-MX-JorgeNeural` (borrador; no publicable, D-005).
 
+## Versión 2 (paso 2B)
+- **Salida:** `out/prueba_3d_v2.mp4` (1080x1920, 30 fps, 266 fotogramas, 8,9 s; audio AAC 48 kHz).
+  Intermedio sin masterizar: `out/prueba_3d_v2_sinmaster.mp4`.
+- **QA:** `07_qa/hoja_contactos_v2_2fps.png` (18 cuadros).
+- **Audio:** −14,0 LUFS integrados, pico verdadero −2,0 dBTP, medidos con ebur128 sobre el MP4 ya codificado.
+- **Cómo reproducir:**
+  1. Voz: `uv run --no-project --with edge-tts==7.3.1 python "scripts/tts_borrador.py" --texto "<texto>" --voz es-MX-JorgeNeural --salida "proyectos/2026-11-21_prueba-3d/05_audio/voz_borrador_v2"` (velocidad normal).
+  2. Blender, dos capas: `"<blender.exe>" -b --factory-startup --python "scripts/escena_cable_submarino_v2.py" -- --render --capa escena` y lo mismo con `--capa agua`.
+  3. Montaje + máster: `npm run render_prueba3d_v2`.
+
+| Etapa v2 | Tiempo |
+|---|---|
+| Blender capa escena (266 f, Eevee + Freestyle + desenfoque de movimiento) | 557,2 s |
+| Blender capa agua (266 f) | 313,9 s |
+| **Blender total** | **871,1 s (14 min 31 s)** |
+| Remotion (Prueba3Dv2) | 42,3 s |
+| Masterizado de audio | 1,2 s |
+
+- **Recursos v2:** Poly Pizza "Container Ship" (Alex Safayan, CC BY 3.0) y "Hand" (Poly by Google, CC BY 3.0); Poly Haven CC0 (rocas, boya); fuente Lilita One (OFL 1.1). Todo en `biblioteca/LICENCIAS.csv`.
+
 ## Bloqueos para publicar
 - Dato del 99 % sin fuente primaria (D-003).
 - Voz de borrador (D-005).
+- Diámetro real del cable (17-21 mm) sin fuente (D-003).
+- Créditos CC BY obligatorios de los modelos de Poly Pizza.

@@ -1,0 +1,106 @@
+{
+  "voz": "es-MX-JorgeNeural",
+  "texto": "Más del 99 % del tráfico entre continentes viaja por cables como este. Y es más delgado de lo que imaginas.",
+  "palabras": [
+    {
+      "texto": "Más",
+      "inicio_ms": 100,
+      "fin_ms": 388
+    },
+    {
+      "texto": "del 99",
+      "inicio_ms": 400,
+      "fin_ms": 1200
+    },
+    {
+      "texto": "%",
+      "inicio_ms": 1212,
+      "fin_ms": 1738
+    },
+    {
+      "texto": "del",
+      "inicio_ms": 1750,
+      "fin_ms": 1925
+    },
+    {
+      "texto": "tráfico",
+      "inicio_ms": 1938,
+      "fin_ms": 2375
+    },
+    {
+      "texto": "entre",
+      "inicio_ms": 2388,
+      "fin_ms": 2600
+    },
+    {
+      "texto": "continentes",
+      "inicio_ms": 2612,
+      "fin_ms": 3300
+    },
+    {
+      "texto": "viaja",
+      "inicio_ms": 3312,
+      "fin_ms": 3650
+    },
+    {
+      "texto": "por",
+      "inicio_ms": 3662,
+      "fin_ms": 3875
+    },
+    {
+      "texto": "cables",
+      "inicio_ms": 3888,
+      "fin_ms": 4262
+    },
+    {
+      "texto": "como",
+      "inicio_ms": 4275,
+      "fin_ms": 4538
+    },
+    {
+      "texto": "este",
+      "inicio_ms": 4550,
+      "fin_ms": 4900
+    },
+    {
+      "texto": "Y",
+      "inicio_ms": 5762,
+      "fin_ms": 5950
+    },
+    {
+      "texto": "es",
+      "inicio_ms": 5962,
+      "fin_ms": 6125
+    },
+    {
+      "texto": "más",
+      "inicio_ms": 6138,
+      "fin_ms": 6325
+    },
+    {
+      "texto": "delgado",
+      "inicio_ms": 6338,
+      "fin_ms": 6738
+    },
+    {
+      "texto": "de",
+      "inicio_ms": 6750,
+      "fin_ms": 6850
+    },
+    {
+      "texto": "lo",
+      "inicio_ms": 6862,
+      "fin_ms": 6962
+    },
+    {
+      "texto": "que",
+      "inicio_ms": 6975,
+      "fin_ms": 7075
+    },
+    {
+      "texto": "imaginas",
+      "inicio_ms": 7088,
+      "fin_ms": 7850
+    }
+  ]
+}

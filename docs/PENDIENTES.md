@@ -5,6 +5,9 @@ Formato: `- [ ] (fecha) descripción — contexto`. Al resolver uno, márcalo `[
 ## Paso 2: prueba 3D estilizada (proyectos/2026-11-21_prueba-3d)
 
 - [ ] (2026-11-21) D-003: el dato "más del 99 % del tráfico entre continentes viaja por cables submarinos" no tiene fuente primaria enlazada y fechada. Es solo una prueba; no publicar sin fuente.
+- [ ] (2026-11-21) D-003: el diámetro de 17-21 mm del cable submarino de aguas profundas (usado para escalar la mano en la v2) no tiene fuente primaria enlazada y fechada.
+- [ ] (2026-11-21) Créditos CC-BY obligatorios si se publica: "Container Ship" (Alex Safayan) y "Hand" (Poly by Google), ambos CC BY 3.0 vía Poly Pizza. Definir dónde van los créditos (descripción del video).
+- [ ] (2026-11-21) Poly Pizza vía MCP: la búsqueda con el término "hand" devuelve error 500 de forma sistemática (se encontró la mano buscando "glove"); el ajuste "usar Poly Pizza" del addon es por escena.
 - [ ] (2026-11-21) D-002: el barco y el cable se modelaron con formas simples (no hay barco moderno en Poly Haven y el cable en corte es un diagrama). Excepción autorizada para esta prueba; decidir si se registra como decisión o se buscan modelos CC0/CC-BY.
 - [ ] (2026-11-21) Tipografía de subtítulos: usa fuentes del sistema (Segoe UI Black / Arial Black). Elegir una fuente con licencia libre, guardarla en `biblioteca/fuentes/` y registrarla en LICENCIAS.csv.
 - [ ] (2026-11-21) `Audio` de `remotion` funciona, pero la skill oficial recomienda `@remotion/media`; decidir si se instala (requiere permiso).
